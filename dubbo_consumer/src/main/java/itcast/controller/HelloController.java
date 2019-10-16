@@ -1,7 +1,7 @@
 package itcast.controller;
 
 import com.alibaba.dubbo.config.annotation.Reference;
-import itcast.service.HelloService;
+import com.itheima.service.HelloService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

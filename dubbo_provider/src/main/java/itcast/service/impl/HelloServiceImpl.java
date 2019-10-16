@@ -1,7 +1,7 @@
 package itcast.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import itcast.service.HelloService;
+import com.itheima.service.HelloService;
 import org.springframework.transaction.annotation.Transactional;
 
 @Service(interfaceClass = HelloService.class)

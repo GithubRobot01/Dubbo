@@ -9,6 +9,7 @@
       <list>
         <option value="$PROJECT_DIR$/dubbo_provider/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/packjar/pom.xml" />
       </list>
     </option>
   </component>
